@@ -1,1 +1,1 @@
-# .env
+# Configuracion de entorno

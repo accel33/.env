@@ -1,1 +1,1 @@
-# Configuracion de entorno
+# Config
